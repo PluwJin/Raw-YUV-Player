@@ -1,0 +1,44 @@
+C:\Users\erhan\source\repos\YazLab3\YazLab3\bin\Debug\YazLab3.exe.config
+C:\Users\erhan\source\repos\YazLab3\YazLab3\bin\Debug\YazLab3.exe
+C:\Users\erhan\source\repos\YazLab3\YazLab3\bin\Debug\YazLab3.pdb
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.Form1.resources
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.exe
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.pdb
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+C:\Users\erhan\source\repos\YazLab3\YazLab3\obj\Debug\YazLab3.Form2.resources
+C:\Users\erhan\Desktop\YazLab3\YazLab3\bin\Debug\YazLab3.exe.config
+C:\Users\erhan\Desktop\YazLab3\YazLab3\bin\Debug\YazLab3.exe
+C:\Users\erhan\Desktop\YazLab3\YazLab3\bin\Debug\YazLab3.pdb
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.Form1.resources
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.Form2.resources
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.exe
+C:\Users\erhan\Desktop\YazLab3\YazLab3\obj\Debug\YazLab3.pdb
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\bin\Debug\YazLab3.exe.config
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\bin\Debug\YazLab3.exe
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\bin\Debug\YazLab3.pdb
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.Form1.resources
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.Form2.resources
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.exe
+C:\Users\Erhan Özdoğan\Desktop\Comp. Egineering\5.Yarıyıl (18-19 Güz)\Yazılım Lab 1\Proje3\YazLab3\YazLab3\obj\Debug\YazLab3.pdb
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\bin\Debug\YazLab3.exe.config
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\bin\Debug\YazLab3.exe
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\bin\Debug\YazLab3.pdb
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.csprojAssemblyReference.cache
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.Form1.resources
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.Form2.resources
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.Properties.Resources.resources
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.csproj.GenerateResource.cache
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.csproj.CoreCompileInputs.cache
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.exe
+C:\Users\Erhan Özdoğan\Desktop\Projects\Raw-YUV-Player\YazLab3\obj\Debug\YazLab3.pdb
